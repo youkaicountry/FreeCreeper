@@ -1,0 +1,7 @@
+An open source real time strategy game.
+
+The initial implementation will have some parts of the
+engine generalized, allowing other types of games to
+be made from the engine. In the future, parts that were
+hardcoded will hopefully be generalized further.
+
